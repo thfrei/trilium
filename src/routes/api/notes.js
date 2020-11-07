@@ -184,8 +184,6 @@ function changeTitle(req) {
         noteService.triggerNoteTitleChanged(note);
     }
 
-    console.log(note, await note.getContent());
-
     return note;
 }
 

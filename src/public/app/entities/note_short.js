@@ -13,6 +13,7 @@ const NOTE_TYPE_ICONS = {
     "render": "bx bx-extension",
     "search": "bx bx-file-find",
     "relation-map": "bx bx-map-alt",
+    "canvas-note": "bx bx-pen",
     "book": "bx bx-book"
 };
 

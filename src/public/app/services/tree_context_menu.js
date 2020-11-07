@@ -30,7 +30,7 @@ class TreeContextMenu {
             { title: "Code", command: command, type: "code", uiIcon: "code" },
             { title: "Saved search", command: command, type: "search", uiIcon: "file-find" },
             { title: "Relation Map", command: command, type: "relation-map", uiIcon: "map-alt" },
-            { title: "Canvas Note", command: command, type: "canvas-note", uiIcon: "map-alt" },
+            { title: "Canvas Note", command: command, type: "canvas-note", uiIcon: "pen" },
             { title: "Render HTML note", command: command, type: "render", uiIcon: "extension" },
             { title: "Book", command: command, type: "book", uiIcon: "book" }
         ];
